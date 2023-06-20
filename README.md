@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop screenshot](./screenshots/desktop-ss.JPG.jpg)
-![Mobile screenshot](./screenshots/mobile-ss.JPG.jpg)
+![Desktop screenshot](./screenshots/desktop-ss.JPG)
+![Mobile screenshot](./screenshots/mobile-ss.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/danyela2000/product-preview-card](https://github.com/danyela2000/product-preview-card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
