@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/danyela2000/product-preview-card](https://github.com/danyela2000/product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://incredible-gecko-8a4ef2.netlify.app/](https://incredible-gecko-8a4ef2.netlify.app/)
 
 ## My process
 
