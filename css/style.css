@@ -196,7 +196,6 @@ body {
 
 .old-price {
     vertical-align: middle;
-    display: inline-block;
     text-decoration: line-through;
     font-size: 0.8rem;
     font-family: 'Montserrat', sans-serif;
